@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulyahiya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulyahiya" /> </p>
 
-- 🔭 I’m currently working on **Chat-App**
+- 🔭 I’m currently working on **Founder Link**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **AI Engineer**
 
 - 👨‍💻 All of my projects are available at [https://portfolioabdul25.netlify.app/](https://portfolioabdul25.netlify.app/)
 
